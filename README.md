@@ -1,6 +1,9 @@
 ### Hi there 👋
 <img height="100" src="https://freesvg.org/img/dibujo-13.png" width="100"/>
-[![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=turkayaltintas)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![](https://github-readme-stats.vercel.app/api?username=turkayaltintas)](https://github.com/turkayaltintas/github-readme-stats)
+
 
 
 
