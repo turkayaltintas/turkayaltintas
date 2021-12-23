@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turkayaltintas&layout=compact)](https://github.com/turkayaltintas/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=turkayaltintas)](https://github.com/turkayaltintas/github-readme-stats)
 ---
 ### ⚡⚡⚡⚡⚡⚡
 
@@ -13,7 +14,6 @@
 
 
 
-[![](https://github-readme-stats.vercel.app/api?username=turkayaltintas)](https://github.com/turkayaltintas/github-readme-stats)
 
 
 
